@@ -1,1 +1,12 @@
 # CHAOS
+Name-           Code-             Description-
+
+student         student           ПІБ студента
+lector          lector            ПІБ лектора
+room            room              Номер та корпус у якому знаходиться аудиторія
+mel             chalk             Наявність крейди
+desk            desk              Наявність дошки
+chair           chair             Наявність достатньї кількості місць для сидіння
+timeS           time_stud         Вільний час студентів для проведення лекції
+timeL           time_lect         Вільний час лектора для проведення лекції
+timeR           time_room         Вільний час аудиторії для проведення лекції
